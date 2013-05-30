@@ -1,0 +1,14 @@
+img {
+	width: 500;
+	height: 600;
+}
+
+#sidebar {
+	width:25%;
+	background-color:blue;
+	float:right;
+}
+
+#content {
+	width:25%;
+}
